@@ -3,10 +3,9 @@
 A sleek, dark, mobile-first theme for [Podcast Generator](https://podcastgenerator.net)
 with orange accents and a modern UI.
 
-![Screenshot](https://pasteboard.co/zDiSm9FmcuOp.png)
 
+## Features<img width="987" height="919" alt="Citadel Theme Bitcoin Takeover Podcast Vlad Costea Podcast Generator" src="https://github.com/user-attachments/assets/06c0899e-4a7c-4d19-9a7c-351fd8991e70" />
 
-## Features
 
 - 🌑 Full dark mode with carefully chosen contrast
 - 📱 Mobile-first responsive design
