@@ -1,2 +1,45 @@
-# citadel-theme
-A lightweight, mobile-first theme for Podcast Generator 3.x with modern UI, dark mode &amp; orange accents
+# 🏰 Citadel — A Dark Theme for Podcast Generator
+
+A sleek, dark, mobile-first theme for [Podcast Generator](https://podcastgenerator.net)
+with orange accents and a modern UI.
+
+![Screenshot](https://imgur.com/a/vVovaHk))
+
+
+## Features
+
+- 🌑 Full dark mode with carefully chosen contrast
+- 📱 Mobile-first responsive design
+- 🎨 CSS custom properties — easy to re-skin
+- 🎧 Styled audio player
+- ⚡ Lightweight — no JavaScript dependencies beyond Bootstrap 5
+
+
+ ## Requirements
+Podcast Generator 3.x
+A modern browser
+License
+MIT — do whatever you want with it.
+
+Support Development
+If you find this theme useful, consider making a donation: bitcoin-takeover.com/donate
+
+## Installation
+
+1. Download or clone this repository
+2. Copy the `themes/citadel/` folder into your Podcast Generator
+   `themes/` directory
+3. In PG Admin → Settings → Theme, select **Citadel**
+
+## Customization
+
+Edit `themes/citadel/style/custom.css` and change the CSS variables
+in `:root` to match your brand:
+
+```css
+:root {
+    --accent: #ff9500;   /* your brand color */
+    --bg:     #0d0d0d;   /* page background  */
+}
+
+ 
