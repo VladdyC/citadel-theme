@@ -1,0 +1,19 @@
+citadel-theme/
+├── LICENSE
+├── README.md
+├── DONATE.md
+├── screenshot.png
+├── themes/
+│   └── citadel/
+│       ├── theme.cfg
+│       ├── preview.png
+│       ├── style/
+│       │   └── custom.css
+│       ├── templates/
+│       │   ├── header.php
+│       │   ├── footer.php
+│       │   ├── episode.php
+│       │   ├── episodes_list.php
+│       │   └── sidebar.php
+│       └── images/
+│           └── (any generic icons/assets)
