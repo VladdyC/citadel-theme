@@ -3,7 +3,7 @@
 A sleek, dark, mobile-first theme for [Podcast Generator](https://podcastgenerator.net)
 with orange accents and a modern UI.
 
-![Screenshot](https://imgur.com/zIrfaeL)
+![Screenshot](https://pasteboard.co/zDiSm9FmcuOp.png)
 
 
 ## Features
